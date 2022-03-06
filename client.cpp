@@ -6,9 +6,6 @@
 //
 
 #include "client.hpp"
-//#include "enums.hpp"
-
-#include "retTypes.hpp"
 #include <iostream>
 #include <unistd.h>
 #include <sys/socket.h>
