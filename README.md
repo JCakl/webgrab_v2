@@ -27,14 +27,9 @@ Steps:<br/>
 ## How to run:
 
 ****./webgrab**** ... the program starts and listens commands<br/>
+****./webgrab -d URL adress**** ... the program is started and send URL adress to service ( URL is added to the queue)<br/>
+****./webgrab -s**** ... the main service is switched off (it will turn off completely after the ongoing download is completed)
 
-------------------------------------------
-
-****./webgrab -d URL adress**** -> the program is started and send URL adress to service ( URL is added to the queue)
-<br/>
-------------------------------------------
-****./webgrab -s **** -> the main service is switched off (it will turn off completely after the ongoing download is completed)
-<br/>
 
 ## File name for downloaded files
 random_number range 100 - 999<br/>
