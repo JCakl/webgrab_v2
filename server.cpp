@@ -7,7 +7,6 @@
 
 #include "server.hpp"
 #include <unistd.h>
-#include "retTypes.hpp"
 #include <queue>
 #include <thread>
 #include <sys/ioctl.h>
